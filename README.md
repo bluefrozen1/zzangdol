@@ -1,2 +1,2 @@
 # zzangdol
-오목시합
+Ksign Omok match
